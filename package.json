@@ -1,0 +1,11 @@
+{
+  "name": "docker-registry-cleaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "septemptus",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "enquirer": "^2.3.6"
+  }
+}
